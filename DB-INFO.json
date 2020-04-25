@@ -4,6 +4,7 @@
     "title": "Metal Slug: Super Vehicle-001",
     "description": "Composed by: HIYA!, JIM",
     "folder": "MS1",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover.jpg",
     "data": [
       {
         "name":"Title (Opening)",
@@ -90,6 +91,7 @@
     "title": "Metal Slug 2",
     "description": "Composed by: HIYA!",
     "folder": "MS2",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover2.jpg",
     "data": [
       {
         "name":"Title",
@@ -207,6 +209,7 @@
     "title": "Metal Slug X",
     "description": "Composed by: HIYA!, Captain Beroou",
     "folder": "MSX",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/coverx.jpg",
     "data": [
       {
         "name":"Title -X-",
@@ -329,6 +332,7 @@
     "title": "Metal Slug 3",
     "description": "Composed by: HIYA!, Captain Beroou, Hori_Hori, Q_JIROU, maitaro",
     "folder": "MS3",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover3.jpg",
     "data": [
       {
         "name":"The Military System",
@@ -505,6 +509,7 @@
     "title": "Metal Slug 4",
     "description": "Composed by: Toshikazu Tanaka",
     "folder": "MS4",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover4.jpg",
     "data": [
       {
         "name":"Declare War",
@@ -627,6 +632,7 @@
     "title": "Metal Slug 5",
     "description": "Composed by: Toshikazu Tanaka",
     "folder": "MS5",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover5.jpg",
     "data": [
       {
         "name":"The Military System (Dencyu's Arrange Version)",
@@ -731,6 +737,7 @@
     "title": "Metal Slug 6",
     "description": "Composed by: Manabu Namiki, Mitsuhiro Kaneda",
     "folder": "MS6",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover6.jpg",
     "data": [
       {
         "name":"Last Resort",
@@ -847,6 +854,7 @@
     "title": "Metal Slug 7",
     "description": "Composed by: Toshikazu Tanaka",
     "folder": "MS7",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover7.jpg",
     "data": [
       {
         "name":"Barracks (MS7 Version)",
@@ -963,6 +971,7 @@
     "title": "Metal Slug 3D",
     "description": "Composed by: Mitsuhiro Kaneda",
     "folder": "MS3D",
+    "image": "https://raw.githubusercontent.com/soyingenieroencaminos/OSTMUSIC/master/images/cover3d.jpg",
     "data": [
       {
         "name":"Weapons Free Arrange (Arranged by Mitsuhiro Kaneda)",
