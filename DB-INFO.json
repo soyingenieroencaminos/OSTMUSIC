@@ -3,84 +3,85 @@
     "id": 1,
     "title": "Metal Slug: Super Vehicle-001",
     "description": "Composed by: HIYA!, JIM",
+    "folder": "MS1",
     "data": [
       {
         "name":"Title (Opening)",
         "information":"(00:25)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/iudzrqpf/1-01%20Title%20%28Opening%29%20~%20Nazca%20Logo.mp3",
-        "nameFile":""
+        "nameFile":"1-Title(Opening).mp3"
       },
       {
         "name":"The Military System",
         "information":"(00:55)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fsghcfzl/1-02%20Operation%20Explanation%2C%20Ranking.mp3",
-        "nameFile":""
+        "nameFile":"2-TheMilitarySystem.mp3"
       },
       {
         "name":"Main Theme From Metal Slug",
         "information":"(04:12)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/wtjbwune/1-03%20Stage%201.mp3",
-        "nameFile":""
+        "nameFile":"3-Main Theme.mp3"
       },
       {
         "name":"Steel Beast",
         "information":"(02:07)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/prwpydfj/1-04%20Boss%20Stage.mp3",
-        "nameFile":""
+        "nameFile":"4-SteelBeast.mp3"
       },
       {
         "name":"Carry Out",
         "information":"(00:09)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ftyxlplz/1-05%20Stage%20Clear.mp3",
-        "nameFile":""
+        "nameFile":"5-CarryOut.mp3"
       },
       {
         "name":"Inner Station ",
         "information":"(04:28)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/exisrgha/1-06%20Stage%202.mp3",
-        "nameFile":""
+        "nameFile":"6-InnerStation.mp3"
       },
       {
         "name":"Assault Theme",
         "information":"(04:16)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/jrbumjxt/1-07%20Stage%203.mp3",
-        "nameFile":""
+        "nameFile":"7-AssaultTheme.mp3"
       },
       {
         "name":"Ridge 256",
         "information":"(03:08)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/kqziuykp/1-08%20Stage%204.mp3",
-        "nameFile":""
+        "nameFile":"8-Ridge256.mp3"
       },
       {
         "name":"Gerhardt City",
         "information":"(03:12)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/qhelkcra/1-09%20Stage%205.mp3",
-        "nameFile":""
+        "nameFile":"9-GerhardtCity.mp3"
       },
       {
         "name":"Final Attack",
         "information":"(03:13)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/yxwuuhli/1-10%20Stage%206.mp3",
-        "nameFile":""
+        "nameFile":"10-FinalAttack.mp3"
       },
       {
         "name":"End Title",
         "information":"(02:27)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ghauvhgj/1-11%20Final%20Production%201P.mp3",
-        "nameFile":""
+        "nameFile":"11-EndTitle.mp3"
       },
       {
         "name":"Hold You Still!",
         "information":"(03:49)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/xppkchnb/1-12%20Final%20Production%202P.mp3",
-        "nameFile":""
+        "nameFile":"12-HoldYouStill.mp3"
       },
       {
         "name":"Gravestone",
         "information":"(00:09)",
         "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ufzzikuv/1-13%20Game%20Over.mp3T",
-        "nameFile":""
+        "nameFile":"13-Gravestone.mp3"
       }
     ]
   },
@@ -88,49 +89,1121 @@
     "id": 2,
     "title": "Metal Slug 2",
     "description": "Composed by: HIYA!",
-    "data": []
+    "folder": "MS2",
+    "data": [
+      {
+        "name":"Title",
+        "information":"(00:10)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/hcomyjsqvf/01%20TITLE%20%28Opening%29.mp3",
+        "nameFile":"1-Title.mp3"
+      },
+      {
+        "name":"The Military System",
+        "information":"(00:53)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/mwkgfxefhr/02%20THE%20MILITARY%20SYSTEM%20%28Operation%20Explanation%2C%20Ranking%29.mp3",
+        "nameFile":"2-TheMilitarySystem.mp3"
+      },
+      {
+        "name":"Barracks",
+        "information":"(00:41)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/ckrxhysmyb/03%20BARRACKS%20%28Character%20Select%29.mp3",
+        "nameFile":"3-Barracks.mp3"
+      },
+      {
+        "name":"Judgment ",
+        "information":"(03:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/tlpbusvyko/04%20JUDGMENT%20%28Stage%201%29.mp3",
+        "nameFile":"4-Judgment.mp3"
+      },
+      {
+        "name":"Steel Beast 6Beets",
+        "information":"(02:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/ialipszslo/05%20STEEL%20BEAST%206BEETS%20%28Boss%20Theme%20A%29.mp3",
+        "nameFile":"5-SteelBeast6Beets.mp3"
+      },
+      {
+        "name":"Prehistoric Site",
+        "information":"(03:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/prdtphtopz/06%20PREHISTORIC%20SITE%20%28Stage%202-1%29.mp3",
+        "nameFile":"6-PrehistoricSite.mp3"
+      },
+      {
+        "name":"The Cenotaph",
+        "information":"(03:25)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/criburxjse/07%20THE%20CENOTAPH%20%28Stage%202-3%29.mp3",
+        "nameFile":"7-TheCenotaph.mp3"
+      },
+      {
+        "name":"First Contact",
+        "information":"(02:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/jnhtzdtkhn/08%20FIRST%20CONTACT%20%28Boss%20Theme%20B%2C%20Stage%206-2%29.mp3",
+        "nameFile":"8-FirstContact.mp3"
+      },
+      {
+        "name":"Livin on the Deck",
+        "information":"(03:36)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/mfpsqlqtyt/09%20LIVIN%27%20ON%20THE%20DECK%20%28Stage%203-1%29.mp3",
+        "nameFile":"9-LivinontheDeck.mp3"
+      },
+      {
+        "name":"Assault Theme",
+        "information":"(04:19)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/bbosaofwqw/10%20ASSAULT%20THEME%20%28Boss%20Theme%20C%2C%20Stage%206-1%29.mp3",
+        "nameFile":"10-AssaultTheme.mp3"
+      },
+      {
+        "name":"Back to the China",
+        "information":"(03:24)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/yppfcxytwz/11%20BACK%20TO%20THE%20CHINA%20%28Stage%204-1%29.mp3",
+        "nameFile":"11-BacktotheChina.mp3"
+      },
+      {
+        "name":"New Godokin Street",
+        "information":"(01:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/cxjtrpfqhe/12%20NEW%20GODOKIN%20STREET%20%28Stage%205-1%29.mp3",
+        "nameFile":"12-NewGodokinStreet.mp3"
+      },
+      {
+        "name":"Kiss in the Dark",
+        "information":"(02:13)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/ofduuczxts/13%20KISS%20IN%20THE%20DARK%20%28Stage%205-2%29.mp3",
+        "nameFile":"13-KissintheDark.mp3"
+      },
+      {
+        "name":"Metamorphosis",
+        "information":"(03:17)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/polzksalub/14%20METAMORPHOSIS%20%28Stage%205-3%29.mp3",
+        "nameFile":"14-Metamorphosis.mp3"
+      },
+      {
+        "name":"Gravestone",
+        "information":"(00:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/ixhjnnraft/15%20GRAVESTONE%20%28Game%20Over%29.mp3",
+        "nameFile":"15-Gravestone.mp3"
+      },
+      {
+        "name":"Final Attack",
+        "information":"(03:13)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/tzxwlarfoo/16%20FINAL%20ATTACK%20%28Stage%206-3%29.mp3",
+        "nameFile":"16-FinalAttack.mp3"
+      },
+      {
+        "name":"End Title Again",
+        "information":"(00:23)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/npodvxrmtb/17%20END%20TITLE%20AGAIN%20%28Final%20Scene%29.mp3",
+        "nameFile":"17-EndTitleAgain.mp3"
+      },
+      {
+        "name":"Carry Out",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-2/kpqohtzpve/18%20CARRY%20OUT%20%28Stage%20Clear%29.mp3",
+        "nameFile":"18-CarryOut.mp3"
+      }
+    ]
     
   },
   {
     "id": 3,
     "title": "Metal Slug X",
     "description": "Composed by: HIYA!, Captain Beroou",
-    "data": []
+    "folder": "MSX",
+    "data": [
+      {
+        "name":"Title -X-",
+        "information":"(00:10)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/cmsdftoc/3-01%20Title%20-X-%20%28Opening%29.mp3",
+        "nameFile":"1-TitleX.mp3"
+      },
+      {
+        "name":"The Military System -X-",
+        "information":"(00:53)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ziyyenay/3-02%20The%20Military%20System%20-X-%20%28Operation%20Explanation%2C%20Ranking%29.mp3",
+        "nameFile":"2-TheMilitarySystemX.mp3"
+      },
+      {
+        "name":"Barracks -X-",
+        "information":"(00:41)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/xkafyswp/3-04%20Judgment%20-X-%20%28Stage%201-1%29.mp3",
+        "nameFile":"3-BarracksX.mp3"
+      },
+      {
+        "name":"Judgment -X-",
+        "information":"(03:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/vpdasoqt/3-05%20Steel%20Beast%206Beets%20-X-%20%28Boss%20Theme%20A%29.mp3",
+        "nameFile":"4JudgmentX.mp3"
+      },
+      {
+        "name":"Steel Beast 6Beets -X-",
+        "information":"(02:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/vpdasoqt/3-05%20Steel%20Beast%206Beets%20-X-%20%28Boss%20Theme%20A%29.mp3",
+        "nameFile":"5-SteelBeast6BeetsX.mp3"
+      },
+      {
+        "name":"Prehistoric Site -X-",
+        "information":"(03:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/hkvsupuq/3-06%20Prehistoric%20Site%20-X-%20%28Stage%202-1%29.mp3",
+        "nameFile":"6-PrehistoricSiteX.mp3"
+      },
+      {
+        "name":"The Cenotaph -X-",
+        "information":"(03:25)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/zyfcyffb/3-07%20The%20Cenotaph%20-X-%20%28Stage%202-3%29.mp3",
+        "nameFile":"7-TheCenotaphX.mp3"
+      },
+      {
+        "name":"First Contact -X-",
+        "information":"(02:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gasqwkww/3-08%20First%20Contact%20-X-%20%28Boss%20Theme%20B%2C%20Stage%206-2%29.mp3",
+        "nameFile":"8-FirstContactX.mp3"
+      },
+      {
+        "name":"Livin on the Deck -X-",
+        "information":"(03:36)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/bgmtnbkr/3-09%20Livin%27%20on%20the%20Deck%20-X-%20%28Stage%203-1%29.mp3",
+        "nameFile":"9-LivinontheDeckX.mp3"
+      },
+      {
+        "name":"Assault Theme -X-",
+        "information":"(04:19)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ljzsgisr/3-10%20Assault%20Theme%20-X-%20%28Boss%20Theme%20C%2C%20Stage%206-1%29.mp3",
+        "nameFile":"10-AssaultThemeX.mp3"
+      },
+      {
+        "name":"Back to the China -X-",
+        "information":"(03:24)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gszkshqi/3-11%20Back%20to%20the%20China%20-X-%20%28Stage%204-1%29.mp3",
+        "nameFile":"11-BacktotheChinaX.mp3"
+      },
+      {
+        "name":"New Godokin Street -X-",
+        "information":"(01:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/rcadeijd/3-12%20New%20Godokin%20Street%20-X-%20%28Stage%205-1%29.mp3",
+        "nameFile":"12-NewGodokinStreetX.mp3"
+      },
+      {
+        "name":"Kiss in the Dark -X-",
+        "information":"(02:13)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/edojmnve/3-13%20Kiss%20in%20the%20Dark%20-X-%20%28Stage%205-2%29.mp3",
+        "nameFile":"13-KissintheDarkX.mp3"
+      },
+      {
+        "name":"Metamorphosis -X-",
+        "information":"(03:17)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/aswoskdr/3-14%20Metamorphosis%20-X-%20%28Stage%205-3%29.mp3",
+        "nameFile":"14-MetamorphosisX.mp3"
+      },
+      {
+        "name":"Gravestone -X-",
+        "information":"(00:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ahzxjfvx/3-15%20Gravestone%20-X-%20%28Game%20Over%29.mp3",
+        "nameFile":"15-GravestoneX.mp3"
+      },
+      {
+        "name":"Final Attack -X-",
+        "information":"(03:13)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ungagdfr/3-16%20Final%20Attack%20-X-%20%28Stage%206-3%29.mp3",
+        "nameFile":"16-FinalAttackX.mp3"
+      },
+      {
+        "name":"End Title Again -X-",
+        "information":"(00:23)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/mfsqmvda/3-17%20End%20Title%20Again%20-X-%20%28Final%20Production%29.mp3",
+        "nameFile":"17-EndTitleAgainX.mp3"
+      },
+      {
+        "name":"MS_X Ending -X-",
+        "information":"(02:45)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/faizmvga/3-18%20MS_X%20Ending%20%28End%20Roll%29.mp3",
+        "nameFile":"18-MS_XEndingX.mp3"
+      },
+      {
+        "name":"Carry Out -X-",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pzsrphga/3-19%20Carry%20Out%20-X-%20%28Stage%20Clear%29.mp3",
+        "nameFile":"19-CarryOutX.mp3"
+      }
+    ]
   },
   {
     "id": 4,
     "title": "Metal Slug 3",
     "description": "Composed by: HIYA!, Captain Beroou, Hori_Hori, Q_JIROU, maitaro",
-    "data": []
+    "folder": "MS3",
+    "data": [
+      {
+        "name":"The Military System",
+        "information":"(00:57)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ojabpsih/4-01%20The%20Military%20System%20%28Operation%20Explanation%2C%20Ranking%29.mp3",
+        "nameFile":"1-TheMilitarySystem.mp3"
+      },
+      {
+        "name":"Barracks",
+        "information":"(00:43)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/dbafzouw/4-02%20Barracks%20%28Character%20Select%29.mp3",
+        "nameFile":"2-Barracks.mp3"
+      },
+      {
+        "name":"Blue Water Fangs (The Island of Dr. Moreau)",
+        "information":"(02:16)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tkhhcgkp/4-03%20Blue%20Water%20Fangs%20~The%20Island%20of%20Dr.%20Moreau~%20%28Stage%201%29.mp3",
+        "nameFile":"3-BlueWaterFangs(TheIslandofDr.Moreau).mp3"
+      },
+      {
+        "name":"Marine Diver",
+        "information":"(01:43)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/kkjrmowp/4-04%20Marine%20Diver%20%28Stage%201%20alt.%20route%20~%20Ocean%20Depths%29.mp3",
+        "nameFile":"4-MarineDiver.mp3"
+      },
+      {
+        "name":"The Unknown World",
+        "information":"(02:21)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gorxwkex/4-05%20The%20Unknown%20World%20%28Stage%201%20alt.%20route%20~%20Core%20Facility%2C%20UFO%20Interior%20Passage%201%29.mp3",
+        "nameFile":"5-TheUnknownWorld.mp3"
+      },
+      {
+        "name":"SteelBeast6Beets",
+        "information":"(02:15)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/jvsooogx/4-06%20Steel%20Beasts%206Beets%20%28Boss%20Theme%20A%29.mp3",
+        "nameFile":"6-SteelBeast6Beets.mp3"
+      },
+      {
+        "name":"Midnight Wandering",
+        "information":"(02:19)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/swpslijq/4-07%20The%20Midnight%20Wandering%20%28Stage%202%29.mp3",
+        "nameFile":"7-MidnightWandering.mp3"
+      },
+      {
+        "name":"Devil's Snow Cave",
+        "information":"(01:55)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/avbjuqev/4-08%20Devil%27s%20Snow%20Cave%20%28Stage%202%20alt.%20route%20~%20Cave%20of%20Ice%29.mp3",
+        "nameFile":"8-DevilsSnowCave.mp3"
+      },
+      {
+        "name":"Metamorphosis",
+        "information":"(01:54)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/annwblhe/4-09%20Metamorphosis%20%28Boss%20Theme%20B%29.mp3",
+        "nameFile":"9-Metamorphosis.mp3"
+      },
+      {
+        "name":"The Shallow Sea",
+        "information":"(01:38)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/wqcchnfc/4-10%20The%20Shallow%20Sea%20%28Stage%203%29.mp3",
+        "nameFile":"10-TheShallowSea.mp3"
+      },
+      {
+        "name":"Hard Water",
+        "information":"(02:34)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ojprfklo/4-11%20Hard%20Water%20%28Stage%203%20alt.%20route%20~%20Underground%20Channel%29.mp3",
+        "nameFile":"11-HardWater.mp3"
+      },
+      {
+        "name":"Assault Theme",
+        "information":"(02:32)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pccminvs/4-12%20Assault%20Theme%20%28Stage%203%20alt.%20route%20~%20Bridge%2C%20Stage%205-2%29.mp3",
+        "nameFile":"12-AssaultTheme.mp3"
+      },
+      {
+        "name":"Secret Factory",
+        "information":"(02:18)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lgfcolve/4-13%20Secret%20Factory%20%28Stage%203%20alt.%20route%20~%20Armory%29.mp3",
+        "nameFile":"13-SecretFactory.mp3"
+      },
+      {
+        "name":"Desert",
+        "information":"(01:48)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ltujopnr/4-14%20Desert%20%28Stage%204%29.mp3",
+        "nameFile":"14-Desert.mp3"
+      },
+      {
+        "name":"Pyramid",
+        "information":"(01:30)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ldlmakez/4-15%20Pyramid%20%28Stage%204%20alt.%20route%20~%20Pyramid%29.mp3",
+        "nameFile":"15-Pyramid.mp3"
+      },
+      {
+        "name":"The Cenotaph",
+        "information":"(01:59)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/bnfermpy/4-16%20The%20Cenotaph%20%28Stage%204%20alt.%20route%20~%20Ancient%20Ruins%29.mp3",
+        "nameFile":"16-TheCenotaph.mp3"
+      },
+      {
+        "name":"The Japanese Army",
+        "information":"(01:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/yhopklgc/4-17%20The%20Japanese%20Army%20%28Stage%204%20alt.%20route%20~%20Ex-military%20Hideout.mp3",
+        "nameFile":"17-TheJapaneseArmy.mp3"
+      },
+      {
+        "name":"In the Void",
+        "information":"(02:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/icpsxazv/4-18%20Into%20the%20Sky%20%28Stage%205-1%29.mp3",
+        "nameFile":"18-IntheVoid.mp3"
+      },
+      {
+        "name":"Kidnapping",
+        "information":"(00:34)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/mhafcohv/4-19%20The%20Kidnapping%20%28The%20Mars%20People%20Arrive%29.mp3",
+        "nameFile":"19-Kidnapping.mp3"
+      },
+      {
+        "name":"Into the Cosmos",
+        "information":"(02:25)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/qadcehzz/4-20%20Into%20the%20Cosmos%20%28The%20Void%20of%20Space%29.mp3",
+        "nameFile":"20-IntotheCosmos.mp3"
+      },
+      {
+        "name":"Kiss in the Dark",
+        "information":"(01:39)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fmroufls/4-21%20Kiss%20in%20the%20Dark%20%28Enemy%20UFO%20Interior%29.mp3",
+        "nameFile":"21-KissintheDark.mp3"
+      },
+      {
+        "name":"First Contact",
+        "information":"(01:48)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/rfkczcrp/4-22%20First%20Contact%20%28UFO%20Interior%20Passage%202%29.mp3",
+        "nameFile":"22-FirstContact.mp3"
+      },
+      {
+        "name":"Bioinformatics",
+        "information":"(02:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/kzchdemh/4-23%20Bioinformatics%20%28UFO%20Interior%20Passage%203%29.mp3",
+        "nameFile":"23-Bioinformatics.mp3"
+      },
+      {
+        "name":"Escape",
+        "information":"(02:15)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gscluvod/4-24%20Escape%20%28UFO%20Escape%29.mp3",
+        "nameFile":"24-Escape.mp3"
+      },
+      {
+        "name":"Final Attack",
+        "information":"(02:30)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/rrxygtcz/4-25%20Final%20Attack%20%28Last%20Boss%29.mp3",
+        "nameFile":"25-FinalAttack.mp3"
+      },
+      {
+        "name":"End Title Again",
+        "information":"(02:28)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/okbkglqv/4-26%20End%20Title%20Again%20%28Final%20Production%29.mp3",
+        "nameFile":"26-EndTitleAgain.mp3"
+      },
+      {
+        "name":"Gravestone",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/atqlmdff/4-27%20Gravestone%20%28Game%20Over%29.mp3",
+        "nameFile":"27-Gravestone.mp3"
+      },
+      {
+        "name":"Carry Out",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ylgtoqzd/4-28%20Carry%20Out%20%28Stage%20Clear%29.mp3",
+        "nameFile":"28-CarryOut.mp3"
+      }
+    ]
   },
   {
     "id": 5,
     "title": "Metal Slug 4",
     "description": "Composed by: Toshikazu Tanaka",
-    "data": []
+    "folder": "MS4",
+    "data": [
+      {
+        "name":"Declare War",
+        "information":"(00:24)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/oysnjqsu/5-01%20Declare%20War%20%28Opening%20Demo%29.mp3",
+        "nameFile":"1-DeclareWar.mp3"
+      },
+      {
+        "name":"The Military System",
+        "information":"(00:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/uaxpjdfd/5-02%20THE%20MILITARY%20SYSTEM%20%28Operation%20Explanation%2C%20Ranking%29.mp3",
+        "nameFile":"2-TheMilitarySystem.mp3"
+      },
+      {
+        "name":"Choose a Person",
+        "information":"(00:20)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/wvdjcbkv/5-03%20Choose%20a%20Person%20%28Player%20Select%29.mp3",
+        "nameFile":"3-ChooseaPerson.mp3"
+      },
+      {
+        "name":"Let's Run Through!",
+        "information":"(03:11)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/egjpxbgg/5-04%20Let%27s%20Run%20Through%21%20%28Stage%201%20~%20City%29.mp3",
+        "nameFile":"4-LetsRunThrough.mp3"
+      },
+      {
+        "name":"Show Spirit",
+        "information":"(03:24)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/zfcqxjnt/5-05%20Show%20Spirit%20%28Stage%202%20~%20Border%20Line%29.mp3",
+        "nameFile":"5-ShowSpirit.mp3"
+      },
+      {
+        "name":"Snowy Road",
+        "information":"(02:25)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/qhgudmhr/5-06%20Snowy%20Road%20%28Stage%203%20~%20Snowy%20Mountain%29.mp3",
+        "nameFile":"6-SnowyRoad.mp3"
+      },
+      {
+        "name":"Cadaverous",
+        "information":"(03:35)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/mdndfvtf/5-07%20Cadaverous%20%28Stage%204%20~%20Haunted%20House%29.mp3",
+        "nameFile":"7-Cadaverous.mp3"
+      },
+      {
+        "name":"Go Ahead!",
+        "information":"(03:16)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gdqvcxug/5-08%20Go%20Ahead%21%20%28Stage%205%20~%20Cargo%20Ship%29.mp3",
+        "nameFile":"8-Go Ahead.mp3"
+      },
+      {
+        "name":"Secret Place",
+        "information":"(03:12)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ufkiralg/5-09%20Secret%20Place%20%28Stage%206%20~%20Final%29.mp3",
+        "nameFile":"9-SecretPlace.mp3"
+      },
+      {
+        "name":"The Scene of a Hard Battle",
+        "information":"(03:21)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/nvyiorcb/5-10%20The%20Scene%20of%20a%20Hard%20Battle%20%28Boss%201%29.mp3",
+        "nameFile":"10-TheSceneofaHardBattle.mp3"
+      },
+      {
+        "name":"Furiously",
+        "information":"(03:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/yvfdxlza/5-11%20Furiously%20%28Boss%202%29.mp3",
+        "nameFile":"11-Furiously.mp3"
+      },
+      {
+        "name":"Uncanny Laugh",
+        "information":"(00:48)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/vvulovjz/5-12%20Uncanny%20Laugh%20%28Last%20Boss%20First%20Part%29.mp3",
+        "nameFile":"12-UncannyLaugh.mp3"
+      },
+      {
+        "name":"Final Madness",
+        "information":"(02:42)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/cqycmeep/5-13%20Final%20Madness%20%28Last%20Boss%20Second%20Part%29.mp3",
+        "nameFile":"13-FinalMadness.mp3"
+      },
+      {
+        "name":"Escape",
+        "information":"(00:36)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/dtnkqrlj/5-14%20Escape%20%28Demo%20After%20Defeating%20the%20Last%20Boss%29.mp3",
+        "nameFile":"14-Escape.mp3"
+      },
+      {
+        "name":"Good Ending",
+        "information":"(00:39)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/cudjaqxt/5-15%20Good%20Ending%20%28Good%20Ending%29.mp3",
+        "nameFile":"15-GoodEnding.mp3"
+      },
+      {
+        "name":"Bad Ending",
+        "information":"(00:45)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fdxoomvv/5-16%20Bad%20Ending%20%28Bad%20Ending%29.mp3",
+        "nameFile":"16-BadEnding.mp3"
+      },
+      {
+        "name":"End to the War",
+        "information":"(02:15)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pjqwvhcl/5-17%20End%20to%20the%20War%20%28Staff%20Roll%29.mp3",
+        "nameFile":"17-EndtotheWar.mp3"
+      },
+      {
+        "name":"Gravestone",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pfgliyuh/5-18%20GRAVESTONE%20%28Game%20Over%29.mp3",
+        "nameFile":"18-Gravestone.mp3"
+      },
+      {
+        "name":"Carry Out",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/drgwptjy/5-19%20CARRY%20OUT%20%28Stage%20Clear%29.mp3",
+        "nameFile":"19-CarryOut.mp3"
+      }
+    ]
   },
   {
     "id": 6,
     "title": "Metal Slug 5",
     "description": "Composed by: Toshikazu Tanaka",
-    "data": []
+    "folder": "MS5",
+    "data": [
+      {
+        "name":"The Military System (Dencyu's Arrange Version)",
+        "information":"(00:51)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tjugwvmi/6-01%20The%20Military%20System%20%28Operation%20Explanation%20Screen%29.mp3",
+        "nameFile":"1-TheMilitarySystem(DencyusArrangeVersion).mp3"
+      },
+      {
+        "name":"Sortie!",
+        "information":"(00:24)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fbbogwwe/6-02%20Sortie%21%20%28Player%20Select%29.mp3",
+        "nameFile":"2-Sortie.mp3"
+      },
+      {
+        "name":"Heavy African",
+        "information":"(03:27)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/badrkfwx/6-03%20Heavy%20African%20%28Stage%201-1%29.mp3",
+        "nameFile":"3-HeavyAfrican.mp3"
+      },
+      {
+        "name":"Ruins Excavation",
+        "information":"(03:21)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/uhwlytbe/6-04%20Ruins%20Excavation%20%28Stage%201-2%29.mp3",
+        "nameFile":"4-RuinsExcavation.mp3"
+      },
+      {
+        "name":"Windy Day",
+        "information":"(03:22)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/uaxqignt/6-05%20Windy%20Day%20%28Stage%202-1%29.mp3",
+        "nameFile":"5-WindyDay.mp3"
+      },
+      {
+        "name":"Zoom Down",
+        "information":"(03:41)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/xvwvdtlq/6-06%20Zoom%20Down%20%28Stage%202-2%29.mp3",
+        "nameFile":"6-ZoomDown.mp3"
+      },
+      {
+        "name":"Intrigue",
+        "information":"(03:22)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ccurcuvx/6-07%20Intrigue%20%28Stage%203%29.mp3",
+        "nameFile":"7-Intrigue.mp3"
+      },
+      {
+        "name":"Run Through",
+        "information":"(01:56)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/nevmyavy/6-08%20Run%20Through%20%28Stage%204-1%29.mp3",
+        "nameFile":"8-RunThrough.mp3"
+      },
+      {
+        "name":"Bottom of the Sea",
+        "information":"(03:33)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/viuzdzug/6-09%20Bottom%20of%20the%20Sea%20%28Stage%204-2%29.mp3",
+        "nameFile":"9-BottomoftheSea.mp3"
+      },
+      {
+        "name":"Speeder",
+        "information":"(04:03)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tkhcsfif/6-10%20Speeder%20%28Stage%205-1%29.mp3",
+        "nameFile":"10-Speeder.mp3"
+      },
+      {
+        "name":"Lastditch Resistance",
+        "information":"(03:16)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/xotdyrjw/6-11%20Last%20Ditch%20Resistance%20%28Stage%205-2%29.mp3",
+        "nameFile":"11-LastditchResistance.mp3"
+      },
+      {
+        "name":"Fierce Battle",
+        "information":"(02:42)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/jfoxwuna/6-12%20Fierce%20Battle%20%28Normal%20Boss%20Fight%29.mp3",
+        "nameFile":"12-FierceBattle.mp3"
+      },
+      {
+        "name":"Final Attack (Dencyu's Arrange Version)",
+        "information":"(03:14)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/mcfmflqt/6-13%20Final%20Attack%20%28Final%20Boss%20Fight%29.mp3",
+        "nameFile":"13-FinalAttack(DencyusArrangeVersion).mp3"
+      },
+      {
+        "name":"Carry Out (Dencyu's Arrange Version)",
+        "information":"(00:09)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ifzinjnd/6-14%20Carry%20Out%20%28Stage%20Clear%29.mp3",
+        "nameFile":"14-CarryOut(DencyusArrangeVersion).mp3"
+      },
+      {
+        "name":"Road to Success",
+        "information":"(02:03)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/agnoccvh/6-15%20Road%20to%20Success%20%28Staff%20Roll%29.mp3",
+        "nameFile":"15-RoadtoSuccess.mp3"
+      },
+      {
+        "name":"Gravestone (Dencyu's Arrange Version)",
+        "information":"(00:10)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lkeilzqz/6-16%20Gravestone%20%28Game%20Over%29.mp3",
+        "nameFile":"16-Gravestone(DencyusArrangeVersion).mp3"
+      }
+    ]
   },
   {
     "id": 7,
     "title": "Metal Slug 6",
     "description": "Composed by: Manabu Namiki, Mitsuhiro Kaneda",
-    "data": []
+    "folder": "MS6",
+    "data": [
+      {
+        "name":"Last Resort",
+        "information":"(00:50)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tkwrqiff/7-01%20Last%20Resort%20%28Soldier%20Select%29.mp3",
+        "nameFile":"1-LastResort.mp3"
+      },
+      {
+        "name":"Main Theme from MS6",
+        "information":"(03:25)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/emcnfnwt/7-02%20Main%20Theme%20from%20MS6%20%28Mission%201-1%29.mp3",
+        "nameFile":"2-MainThemefromMS6.mp3"
+      },
+      {
+        "name":"Cliff and Cave",
+        "information":"(02:59)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/nzcdneqy/7-03%20Cliff%20and%20Cave%20%28Mission%201-2%29.mp3",
+        "nameFile":"3-CliffandCave.mp3"
+      },
+      {
+        "name":"Steel Beast 6+7 Beets",
+        "information":"(03:20)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/mjtplxyw/7-04%20Steel%20Beast%206%2B7%20Beets%20%28Boss%201%29.mp3",
+        "nameFile":"4-SteelBeast67Beets.mp3"
+      },
+      {
+        "name":"Carry Out [MS6 version]",
+        "information":"(00:10)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gtitxyax/7-05%20Carry%20Out%20%5BMS6%20Version%5D%20%28Mission%20Complete%29.mp3",
+        "nameFile":"5-CarryOut[MS6version].mp3"
+      },
+      {
+        "name":"Inner Goldfield",
+        "information":"(03:02)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pcpgfqon/7-06%20Inner%20Goldfield%20%28Mission%202%29.mp3",
+        "nameFile":"6-InnerGoldfield.mp3"
+      },
+      {
+        "name":"Asian Impact",
+        "information":"(03:29)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lxsmamkl/7-07%20Asian%20Impact%20%28Mission%203%29.mp3",
+        "nameFile":"7-AsianImpact.mp3"
+      },
+      {
+        "name":"Biotoxic",
+        "information":"(03:32)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/cwgzbmyg/7-08%20Biotoxic%20%28Boss%202%29.mp3",
+        "nameFile":"8-Biotoxic.mp3"
+      },
+      {
+        "name":"Gravestone [MS6 version]",
+        "information":"(00:11)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fvhzopmm/7-09%20Gravestone%20%5BMS6%20Version%5D%20%28Game%20Over%29.mp3",
+        "nameFile":"9-Gravestone[MS6version].mp3"
+      },
+      {
+        "name":"Bridge 256",
+        "information":"(03:06)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/petkpoeu/7-10%20Bridge%20256%20%28Mission%204-1%29.mp3",
+        "nameFile":"10-Bridge256.mp3"
+      },
+      {
+        "name":"Aim High Chase Fast",
+        "information":"(03:27)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/oxspiwms/7-11%20Aim%20High%20Chase%20Fast%20%28Mission%204-2%29.mp3",
+        "nameFile":"11-AimHighChaseFast.mp3"
+      },
+      {
+        "name":"Final Attack [MS6 version]",
+        "information":"(03:17)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ozliyobp/7-12%20Final%20Attack%20%5BMS6%20Version%5D%20%28Final%20Mission%29.mp3",
+        "nameFile":"12-FinalAttack[MS6version].mp3"
+      },
+      {
+        "name":"Unavoidable Duel",
+        "information":"(03:07)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pbooscvl/7-13%20Unavoidable%20Duel%20%28Boss%203%29.mp3",
+        "nameFile":"13-UnavoidableDuel.mp3"
+      },
+      {
+        "name":"Awesome Rush",
+        "information":"(00:33)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fhfcjnga/7-14%20Awesome%20Rush%20%28Final%20Boss%201%29.mp3",
+        "nameFile":"14-AwesomeRush.mp3"
+      },
+      {
+        "name":"Discharge",
+        "information":"(03:27)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lfmeftrr/7-15%20Discharge%20%28Final%20Boss%202%29.mp3",
+        "nameFile":"15-Discharge.mp3"
+      },
+      {
+        "name":"The Military System [MS6 version]",
+        "information":"(00:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/wyjszalv/7-16%20The%20Military%20System%20%5BMS6%20Version%5D%20%28Mission%20All%20Over%29.mp3",
+        "nameFile":"16-TheMilitarySystem[MS6version].mp3"
+      },
+      {
+        "name":"The Survivor",
+        "information":"(00:21)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/bmuznylw/7-17%20The%20Survivor%20%28Ending%29.mp3",
+        "nameFile":"17-TheSurvivor.mp3"
+      },
+      {
+        "name":"Critical Maneuver",
+        "information":"(02:11)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lptgbdft/7-18%20Critical%20Maneuver%20%28Staff%20Roll%29.mp3",
+        "nameFile":"18-CriticalManeuver.mp3"
+      }
+    ]
   },
   {
     "id": 8,
     "title": "Metal Slug 7",
     "description": "Composed by: Toshikazu Tanaka",
-    "data": []
+    "folder": "MS7",
+    "data": [
+      {
+        "name":"Barracks (MS7 Version)",
+        "information":"(00:26)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/ijryjgka/01%20Barracks%20%28MS7%20Version%29.mp3",
+        "nameFile":"1-Barracks(MS7Version).mp3"
+      },
+      {
+        "name":"Former Master",
+        "information":"(00:57)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/ahkjroqz/02%20Former%20Master.mp3",
+        "nameFile":"2-FormerMaster.mp3"
+      },
+      {
+        "name":"Scrap Island",
+        "information":"(04:44)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/nhlpluzy/03%20Scrap%20Island.mp3",
+        "nameFile":"3-ScrapIsland.mp3"
+      },
+      {
+        "name":"Coal Mine",
+        "information":"(04:53)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/ajgzktta/04%20Coal%20Mine.mp3",
+        "nameFile":"4-CoalMine.mp3"
+      },
+      {
+        "name":"Underground Fortress",
+        "information":"(04:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/pljysdjc/05%20Underground%20Fortress.mp3",
+        "nameFile":"5-UndergroundFortress.mp3"
+      },
+      {
+        "name":"The Waterfall",
+        "information":"(05:30)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/tmgjdael/06%20The%20Waterfall.mp3",
+        "nameFile":"6-TheWaterfall.mp3"
+      },
+      {
+        "name":"Ruins Base",
+        "information":"(05:14)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/ndcfmojc/07%20Ruins%20Base.mp3",
+        "nameFile":"7-RuinsBase.mp3"
+      },
+      {
+        "name":"Snowy Country",
+        "information":"(05:03)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/xctxucam/08%20Snowy%20Country.mp3",
+        "nameFile":"8-SnowyCountry.mp3"
+      },
+      {
+        "name":"The Beginning Is The End",
+        "information":"(04:59)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/ncngbdah/09%20The%20Beginning%20Is%20The%20End.mp3",
+        "nameFile":"9-TheBeginningIsTheEnd.mp3"
+      },
+      {
+        "name":"Carry Out (MS7 Version)",
+        "information":"(00:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/fzyowbvy/10%20Carry%20Out%20%28MS7%20Version%29.mp3",
+        "nameFile":"10-CarryOut(MS7Version).mp3"
+      },
+      {
+        "name":"The Military System (MS7 Version)",
+        "information":"(01:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/qoukkxwt/11%20The%20Military%20System%20%28MS7%20Version%29.mp3",
+        "nameFile":"11-TheMilitarySystem(MS7Version).mp3"
+      },
+      {
+        "name":"Combat School",
+        "information":"(06:14)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/fmmqxuys/12%20Combat%20School.mp3",
+        "nameFile":"12-CombatSchool.mp3"
+      },
+      {
+        "name":"He Has Been Elevated In Rank",
+        "information":"(00:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/xtfrtpoy/13%20He%20Has%20Been%20Elevated%20In%20Rank.mp3",
+        "nameFile":"13-HeHasBeenElevatedInRank.mp3"
+      },
+      {
+        "name":"Beast of Beat 9/8",
+        "information":"(04:50)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/onoflxlt/14%20Beast%20of%20Beat%209_8.mp3",
+        "nameFile":"14-BeastofBeat9_8.mp3"
+      },
+      {
+        "name":"Assault Theme (MS7 Version)",
+        "information":"(05:59)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/rejagvkn/15%20Assault%20Theme%20%28MS7%20Version%29.mp3",
+        "nameFile":"15-AssaultTheme(MS7Version).mp3"
+      },
+      {
+        "name":"Final Attack (MS7 Version)",
+        "information":"(04:52)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/euqosotw/16%20Final%20Attack%20%28MS7%20Version%29.mp3",
+        "nameFile":"16-FinalAttack(MS7Version).mp3"
+      },
+      {
+        "name":"Melody Of My Own Way",
+        "information":"(02:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/dvamhqul/17%20Melody%20Of%20My%20Own%20Way.mp3",
+        "nameFile":"17-MelodyOfMyOwnWay.mp3"
+      },
+      {
+        "name":"Gravestone (MS7 Version)",
+        "information":"(00:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-7-original-soundtrack/msjfucud/18%20Gravestone%20%28MS7%20Version%29.mp3",
+        "nameFile":"18-Gravestone(MS7Version).mp3"
+      }
+    ]
   },
   {
     "id": 9,
     "title": "Metal Slug 3D",
     "description": "Composed by: Mitsuhiro Kaneda",
-    "data": []
+    "folder": "MS3D",
+    "data": [
+      {
+        "name":"Weapons Free Arrange (Arranged by Mitsuhiro Kaneda)",
+        "information":"(05:08)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/mdtngdbm/8-01%20Weapons%20Free%20Arrange%20%28Metal%20Slug%20Arrange%20Version%29.mp3",
+        "nameFile":"1-WeaponsFreeArrange(ArrangedbyMitsuhiroKaneda).mp3"
+      },
+      {
+        "name":"New Plot",
+        "information":"(02:26)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ixlpfxky/8-02%20New%20Plot%20%28Opening%20Movie%29.mp3",
+        "nameFile":"2-NewPlot.mp3"
+      },
+      {
+        "name":"Honest Person Who Fights",
+        "information":"(01:22)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/bdbenfnn/8-03%20Honest%20Person%20Who%20Fights%20%28Demo%20Type%201%29.mp3",
+        "nameFile":"3-HonestPersonWhoFights.mp3"
+      },
+      {
+        "name":"Soldier Who Confronts It",
+        "information":"(00:31)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/iehlzvqy/8-04%20Soldier%20Who%20Confronts%20It%20%28Demo%20Type%202%29.mp3",
+        "nameFile":"4-SoldierWhoConfrontsIt.mp3"
+      },
+      {
+        "name":"Comfortable Tension",
+        "information":"(01:27)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/zpcnhfsm/8-05%20Comfortable%20Tension%20%28Demo%20Type%203%29.mp3",
+        "nameFile":"5-ComfortableTension.mp3"
+      },
+      {
+        "name":"Situation That Becomes Tense",
+        "information":"(00:57)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/xsrctxoe/8-06%20Situation%20That%20Becomes%20Tense%20%28Demo%20Type%204%29.mp3",
+        "nameFile":"6-SituationThatBecomesTense.mp3"
+      },
+      {
+        "name":"Settle Down",
+        "information":"(01:31)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lbbmxtzf/8-07%20Settle%20Down%20%28Demo%20Type%205%29.mp3",
+        "nameFile":"7-SettleDown.mp3"
+      },
+      {
+        "name":"At the Relief",
+        "information":"(00:29)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/dewmtwlx/8-08%20At%20the%20Relief%20%28Demo%20Type%206%29.mp3",
+        "nameFile":"8-AttheRelief.mp3"
+      },
+      {
+        "name":"It Talks About the History",
+        "information":"(01:30)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/zcpysest/8-09%20It%20Talks%20About%20the%20History.%20%28Demo%20Type%207%29.mp3",
+        "nameFile":"9-ItTalksAbouttheHistory.mp3"
+      },
+      {
+        "name":"Imminent Danger",
+        "information":"(00:35)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/gpjrzeze/8-10%20Imminent%20Danger%20%28Demo%20Type%208%29.mp3",
+        "nameFile":"10-ImminentDanger.mp3"
+      },
+      {
+        "name":"Dangerous Atomsphere",
+        "information":"(00:36)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/kuicoaiw/8-11%20Dangerous%20Atmosphere%20%28Demo%20Type%209%29.mp3",
+        "nameFile":"11-DangerousAtomsphere.mp3"
+      },
+      {
+        "name":"Sense of Crisis",
+        "information":"(00:44)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/csrhucmk/8-12%20Sense%20of%20Crisis%20%28Demo%20Type%2010%29.mp3",
+        "nameFile":"12-SenseofCrisis.mp3"
+      },
+      {
+        "name":"Allen's Theme",
+        "information":"(01:30)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/qbgatrui/8-13%20Allen%27s%20Theme%20%28Demo%20-%20Allen%27s%20Theme%29.mp3",
+        "nameFile":"13-AllensTheme.mp3"
+      },
+      {
+        "name":"Morden's Theme",
+        "information":"(01:40)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/cvlyzmcy/8-14%20Morden%27s%20Theme%20%28Demo%20-%20Morden%27s%20Theme%29.mp3",
+        "nameFile":"14-MordensTheme.mp3"
+      },
+      {
+        "name":"Oguma's Theme",
+        "information":"(01:12)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/hpbxrdho/8-15%20Oguma%27s%20Theme%20%28Demo%20-%20Oguma%27s%20Theme%29.mp3",
+        "nameFile":"15-OgumasTheme.mp3"
+      },
+      {
+        "name":"Agonizing Decision",
+        "information":"(00:43)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/akprhgeg/8-16%20Agonizing%20Decision%20%28Menu%20Main%20Screen%29.mp3",
+        "nameFile":"16-AgonizingDecision.mp3"
+      },
+      {
+        "name":"Start From Mountain Village",
+        "information":"(02:25)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/pmqdvirn/8-17%20Start%20from%20Mountain%20Village%20%28Stage%2001%20-Mountain%20Village-%29.mp3",
+        "nameFile":"17-StartFromMountainVillage.mp3"
+      },
+      {
+        "name":"Be Headquartered in the City",
+        "information":"(02:15)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/fbywdkrp/8-18%20Be%20Headquartered%20in%20the%20City%20%28Stage%2002%20-Headquarter%20in%20the%20City-%29.mp3",
+        "nameFile":"18-BeHeadquarteredintheCity.mp3"
+      },
+      {
+        "name":"Desert Town",
+        "information":"(02:22)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/oruvbwyq/8-19%20Desert%20Town%20%28Stage%2003%20-Desert%27s%20Town-%29.mp3",
+        "nameFile":"19-DesertTown.mp3"
+      },
+      {
+        "name":"Coal Mine Mark",
+        "information":"(02:15)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/hptihoge/8-20%20Coal%20Mine%20Mark%20%28Stage%2004%20-Coal%20Mine%20Ruins-%29.mp3",
+        "nameFile":"20-CoalMineMark.mp3"
+      },
+      {
+        "name":"Coal Underground Ruins",
+        "information":"(02:24)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/glzpzoql/8-21%20Underground%20Ruins%20%28Stage%2005%20-Underground%20Ancient%20Ruins-%29.mp3",
+        "nameFile":"21-CoalUndergroundRuins.mp3"
+      },
+      {
+        "name":"Atomspheric Discharge",
+        "information":"(02:41)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/dqavfdeh/8-22%20Atmospheric%20Discharge%20%28Stage%2006%20-Flyer-%29.mp3",
+        "nameFile":"22-AtomsphericDischarge.mp3"
+      },
+      {
+        "name":"Break the Barrier",
+        "information":"(02:19)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/xjshdijf/8-23%20Break%20the%20Barrier%20%28Stage%2007%20-Outer%20Wall%20-%20Inside%20the%20Facility-%29.mp3",
+        "nameFile":"23-BreaktheBarrier.mp3"
+      },
+      {
+        "name":"Sink Under the Waves",
+        "information":"(02:21)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tljmkbln/8-24%20Sink%20Under%20the%20Waves%20%28Stage%2008%20-Mariner-%29.mp3",
+        "nameFile":"24-SinkUndertheWaves.mp3"
+      },
+      {
+        "name":"The South Pole",
+        "information":"(02:27)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/msewjxyi/8-25%20The%20South%20Pole%20%28Stage%2009%20-Antarctic-%29.mp3",
+        "nameFile":"25-TheSouthPole.mp3"
+      },
+      {
+        "name":"Climb the Tower",
+        "information":"(02:46)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lksxlcjk/8-26%20Climb%20the%20Tower%20%28Stage%2010%20-Tower-%29.mp3",
+        "nameFile":"26-ClimbtheTower.mp3"
+      },
+      {
+        "name":"Out of Control",
+        "information":"(02:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tsryorzn/8-27%20Out%20of%20Control%20%28Stage%2011%20-Tower%20Rooftop%201-%20Lugus-%29.mp3",
+        "nameFile":"27-OutofControl.mp3"
+      },
+      {
+        "name":"Shout of Sadness",
+        "information":"(02:05)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/snoqkdga/8-28%20Shout%20of%20Sadness%20%28Stage%2011%20-Tower%20Rooftop%202-%20Flieu-%29.mp3",
+        "nameFile":"28-ShoutofSadness.mp3"
+      },
+      {
+        "name":"Escape Velocity",
+        "information":"(02:14)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/llbpnuqi/8-29%20Escape%20Velocity%20%28Minigame%20-P.O.W.%20Escape-%29.mp3",
+        "nameFile":"29-EscapeVelocity.mp3"
+      },
+      {
+        "name":"Various Bosses",
+        "information":"(01:59)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ygvwiwjb/8-30%20Various%20Bosses%20%28Various%20Bosses%29.mp3",
+        "nameFile":"30-VariousBosses.mp3"
+      },
+      {
+        "name":"Mission Clear",
+        "information":"(00:12)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/slxytwqq/8-31%20Mission%20Clear%20%28Mission%20Clear%29.mp3",
+        "nameFile":"31-MissionClear.mp3"
+      },
+      {
+        "name":"Combat Beginning",
+        "information":"(01:50)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/kbyqzsmr/8-32%20Combat%20Beginning%20%28Movie%20Demo%201%29.mp3",
+        "nameFile":"32-CombatBeginning.mp3"
+      },
+      {
+        "name":"Doubtful Castle",
+        "information":"(00:35)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/qsyqnezx/8-33%20Doubtful%20Castle%20%28Movie%20Demo%202%29.mp3",
+        "nameFile":"33-DoubtfulCastle.mp3"
+      },
+      {
+        "name":"Secret in Iceberg",
+        "information":"(00:26)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tqjiydds/8-34%20Secret%20in%20Iceberg%20%28Movie%20Demo%203%29.mp3",
+        "nameFile":"34-SecretinIceberg.mp3"
+      },
+      {
+        "name":"Living Thing That Goes Mad",
+        "information":"(01:07)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/yxivrnkm/8-35%20Living%20Thing%20That%20Goes%20Mad%20%28Movie%20Demo%204%29.mp3",
+        "nameFile":"35-LivingThingThatGoesMad.mp3"
+      },
+      {
+        "name":"Scientist's Fate",
+        "information":"(00:39)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/nanwzxmm/8-36%20Scientist%27s%20Fate%20%20%28Movie%20Demo%205%29.mp3",
+        "nameFile":"36-ScientistsFate.mp3"
+      },
+      {
+        "name":"The Result is All",
+        "information":"(00:38)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/ssfmzvyt/8-37%20The%20Result%20is%20All%20%28Result%20Screen%29.mp3",
+        "nameFile":"37-TheResultisAll.mp3"
+      },
+      {
+        "name":"People Who Had a Hard Time",
+        "information":"(03:03)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/lysphxfd/8-38%20People%20Who%20Had%20a%20Hard%20Time%20%28Staff%20Roll%29.mp3",
+        "nameFile":"38-PeopleWhoHadaHardTime.mp3"
+      },
+      {
+        "name":"Game Over",
+        "information":"(00:12)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/tcshiozy/8-39%20Game%20Over%20%28Game%20Over%20-%20Retry%20Screen%20-%29.mp3",
+        "nameFile":"39-GameOver.mp3"
+      },
+      {
+        "name":"Unused Tune",
+        "information":"(02:03)",
+        "url":"https://vgmdownloads.com/soundtracks/metal-slug-complete-sound-box/qjpwmnhm/8-40%20Unused%20Tune%20%28Unused%20Tune%29.mp3",
+        "nameFile":"40-UnusedTune.mp3"
+      }
+    ]
   }
 ]
